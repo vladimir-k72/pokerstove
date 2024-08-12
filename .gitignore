@@ -1,6 +1,9 @@
 *~
+cmake-build-*
 build
+.idea
 *.pyc
 *.vscode
 *.swp
 *.log
+

@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
+set(CMAKE_OSX_ARCHITECTURES "arm64")
 
 project(pokerstove)
 
